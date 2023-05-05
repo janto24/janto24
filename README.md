@@ -3,7 +3,7 @@
 
 💬 Hi, my name is Juan. My introduction should explain that I am involved in many things and, above all, that I would like to do many more. Professionally, I am also a lawyer and developer. I have a passion for both concentrated and scattered knowledge. If it can be learned, I believe I can learn it 💪🌱 
 
-
+<sub>My WET nickname:</sub>
 ``` js
 function transformName(name) {
   let transformedName = name.replace('uan', '');
@@ -11,7 +11,8 @@ function transformName(name) {
   return transformedName;
 }
 
-console.log(transformName('juan') + transformName('antonio'));
+const result = transformName('juan') + transformName('antonio') + 10 + 14;
+console.log(result);
 ```
 
 ***

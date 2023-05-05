@@ -1,6 +1,18 @@
 ## Hi = ¡Buenas!👋
 
+
 💬 Hi, my name is Juan. My introduction should explain that I am involved in many things and, above all, that I would like to do many more. Professionally, I am also a lawyer and developer. I have a passion for both concentrated and scattered knowledge. If it can be learned, I believe I can learn it 💪🌱 
+
+
+``` js
+function transformName(name) {
+  let transformedName = name.replace('uan', '');
+  transformedName = transformedName.replace('nio', '');
+  return transformedName;
+}
+
+console.log(transformName('juan') + transformName('antonio'));
+```
 
 ***
 > ### *HTML, CSS, JavaScript and React*

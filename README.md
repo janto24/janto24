@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there // ¡buenas!👋
+
+💬 Hi, my name is Juan. My introduction should explain that I am involved in many things and, above all, that I would like to do many more. Professionally, I am also a lawyer and developer. I have a passion for both concentrated and scattered knowledge. If it can be learned, I believe I can learn it 💪🌱 
+
+***
+> *HTML, CSS, JavaScript y React*
+
+***
+
+You can find me at:
+* https://www.linkedin.com/in/jjanto/ 
+* jjanto24@gmail.com
+* jantonio@antoniovampa.com.ar
+* http://twitter.com/janto
+
+
 
 <!--
 **janto24/janto24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

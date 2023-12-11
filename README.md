@@ -16,7 +16,7 @@ console.log(result);
 ```
 
 ***
-> ### *HTML, CSS, JavaScript and React*
+> ### *HTML, CSS, JavaScript, React, Python*
 
 ***
 
